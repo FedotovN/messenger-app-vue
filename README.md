@@ -1,24 +1,6 @@
-# chat-app-vue
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h3>Обучающий проект 📖</h3>
+<p>Мессенджер 💬</p>
+<br>
+<h4>Использованные инструменты: </h4>
+<p>Frontend ⌨️: Vue.js, Vuex, Vue-router, Vuelidate, SCSS</p>
+<p>Backend 🔥: Firebase Authentication, Firebase Storage, Firebase Firestore</p>
