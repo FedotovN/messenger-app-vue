@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;600&display=swap');
+$font: 'Manrope', sans-serif;
+
+$dark-color: #272727;
+$white-color: #fbfbfb;
+$grey-color: #ccc;
+$dark-grey: #8d8d8d;
+$accent-color: #6988df;
+$secondary-color: #a669df;
+$danger-color: #e16f6f;
+$accept-color: #6fe17c;
+a {
+    text-decoration: none;
+    color: $accent-color;
+    transition: .3s;
+    &:hover {
+        color: $secondary-color;
+    }
+}
